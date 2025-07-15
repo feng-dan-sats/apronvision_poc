@@ -1,0 +1,5 @@
+ultralytics>=8.0.0
+torch
+pillow
+boto3
+numpynumpy<2.0

@@ -1,0 +1,4 @@
+ultralytics==8.0.197
+boto3
+scikit-learn
+numpy
